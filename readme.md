@@ -1,1 +1,1 @@
-This repository is for the code development of the MEng-V2I project.
+This repository is for IntelliCharga, a smart residential EV charging system based on dynamic TOU (Time-of-Use) tariff
