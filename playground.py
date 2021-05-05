@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D # <--- This is important for 3d plotting 
 import pandas as pd
 
+# Just a place to test code
+
 def show_figure(fig):
 
     # create a dummy figure and use its

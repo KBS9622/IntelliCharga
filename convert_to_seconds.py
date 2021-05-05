@@ -3,6 +3,12 @@ import pandas as pd
 import numpy as np
 import os
 
+
+## This file is for resampling the DCGT generated data , 
+# which was generated in milliseconds time scale to a second time scale. 
+# The DCGT code should be updated to save data in second timescale now, but if it is not, 
+# the UCL Research Cluster may be needed to run this code to resample the data
+
 def load_csv_data(file_name, subdir=''):
     """
     Loads data from .csv file in to DataFrame
