@@ -3,6 +3,7 @@
 .DS_Store
 *.pickle
 *.pkl
+*.csv
 data/yun_solution_drive_cycle/v1.csv
 TimeSeriesPrediction/Sep-17/4.0.csv
 TimeSeriesPrediction/Sep-17/34.0.csv
